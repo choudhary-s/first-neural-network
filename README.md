@@ -13,8 +13,12 @@ The output layer has only one node.
              Input	           |  Output
 -----------------------------------------
 0            0             1   |    0
+-----------------------------------------
 0            1             1   |    1
+-----------------------------------------
 1            0             1   |    1
+-----------------------------------------
 1            1             1   |    0
+-----------------------------------------
 
 The models gradually learns to produce an output which is very close to the actual output. # simple_neural_net
