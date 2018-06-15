@@ -10,7 +10,7 @@ The hidden layer has 4 nodes.
 The output layer has only one node.
 
 -----------------------------------------
-             Input	           |  Output
+   Input	|  Output
 -----------------------------------------
 0            0             1   |    0
 -----------------------------------------
